@@ -1,0 +1,6 @@
+# 【原创】区块链众筹金融理财自主研发公链可查交易自动监控原生APP
+
+原技术团队出品产品<br>演示地址：http://example.com<br>账号18812341237<br>密码：112233<br>后台管理：http://example.com/example.com<br>账号：admin<br>密码：123321<br>区块链金融理财产品介绍：<br>example.com.1<br>example.com<br>example.com，交易可在BTC公链上自动审核确认<br>example.com，公司团队开发<br>example.com，基于BTC公链交易公平公正公开<br>example.com，团队奖，领导奖，方便推广裂变<br>example.com+手动匹配撮合式交易，管理简单<br>example.com，支付宝银行卡可直接转U，U也可直接转RMB<br>example.com，并发量高<br>example.com.2 更新时间2024-1-26<br>example.com，可直接购物<br>example.com，提前预约再抢购，如可抢购茅台<br>----------------------------------------------------------------<br>价格：<br>套餐1：WAP+WEB+H5封装安卓苹果APP 价格：28000<br>优势：轻便好维护，苹果APP可做免签永不掉签名<br>套餐2：WAP+WEB+H5封装安卓苹果APP+交易端 价格：48000<br>优势：功能齐全，无需下载等平台，RMB与直接兑换，操作更方便<br>套餐3：WAP+WEB+原生安卓苹果APP+交易端 价格：58000<br>优势：包含以上所有功能，原生开发体验感更强，承载并发量更高，做大做强必备<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/pU0Tk" style="color: red;">https://mega-file.org/pU0Tk</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
